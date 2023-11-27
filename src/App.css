@@ -1,0 +1,9 @@
+div .row{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+ .img-fluid{
+  height: 130px;
+  width: 80%;
+  display: flex;
+}

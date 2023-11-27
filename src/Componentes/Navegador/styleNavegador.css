@@ -1,0 +1,30 @@
+nav.navbar-brand{
+    
+    white-space: pre;
+    color: white;
+    margin-top: 30px;
+    justify-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+nav.navbar{
+    background-color:  #345b89;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+}
+
+a.action.nav-link{
+    
+    white-space: pre;
+    color: white;
+    margin-top: 30px;
+    justify-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
